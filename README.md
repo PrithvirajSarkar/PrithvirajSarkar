@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prithviraj Sarkar!<br>👀 I’m interested in software development<br>🌱 I’m currently pursuing 2nd year BCA<br>📫 How to reach me Email- prithvirajsarkar49.gmail.com<br>⚡ Fun fact: I’m still learning every day, and I love turning mistakes into lessons.
+👋 Hi, I’m Prithviraj Sarkar!<br>👀 I’m interested in software development<br>🌱 I’m currently pursuing BCA<br>📫 How to reach me Email- prithvirajsarkar49.gmail.com<br>⚡ Fun fact: I’m still learning every day, and I love turning mistakes into lessons.
 
 
 ## 🌐 Socials:
